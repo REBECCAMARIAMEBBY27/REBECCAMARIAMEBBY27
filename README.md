@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+
+<img src="https://github.com/user-attachments/assets/55d19dbf-9166-4e2c-941e-665897450afa" width 200px height =600px>
+
 <!--
 **REBECCAMARIAMEBBY27/REBECCAMARIAMEBBY27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
